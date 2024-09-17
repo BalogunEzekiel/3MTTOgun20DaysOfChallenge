@@ -31,7 +31,7 @@ _Addition_, _Subtraction_, _Multiplication_, _Division_
 ![1](https://github.com/user-attachments/assets/7196ddfa-cce9-4eb0-9262-e43c360bcdf5) 
 ![2](https://github.com/user-attachments/assets/d32925ee-95de-486d-aabf-3df9059f6e07)
 
-**_2. Day 1 Challenge(1).ipynb_**
+**_2. Day 1 Challenge.ipynb_**
 
 **Description:** This notebook covers the basic Python concepts and demonstrates arithmetic operations.
 
