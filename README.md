@@ -12,7 +12,7 @@ The beginning of an exciting journey to hone my skills and showcase my portfolio
 
 🎯 Outcome: I successfully wrote two Python scripts performing basic calculations. These simple yet essential scripts lay the foundation for greater things. You can check them out in my growing portfolio using the links below:
 
-Link 1: [Insert Link]
+Link 1: [https://github.com/BalogunEzekiel/3MTTOgun20DaysOfChallenge/blob/main/Day_1_Challenge.ipynb]
 Link 2: [Insert Link]
 
 **Day 2 Challenge: Working with Pandas**
