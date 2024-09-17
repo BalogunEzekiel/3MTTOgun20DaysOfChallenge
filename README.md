@@ -4,7 +4,7 @@ This repository contains Python notebooks created as part of the **3MTT Ogun 20 
 
 **Jupyter Notebooks**
 
-**_1. Day 1 Challenge.ipynb_**
+**_1. Day 1 Challenge.ipynb(1)_**
 
 **Description:** This notebook contains a simple Python script that performs basic arithmetic calculations.
 
@@ -26,11 +26,10 @@ _Addition_, _Subtraction_, _Multiplication_, _Division_
 
 3. The notebook will display the results of the arithmetic operations.
 
-_See below:_
+**_See below:_**
 
-![Simple Calculator - screenshot] (https://1drv.ms/i/s!AuxEuG58wJ2DiF-ZPTKL3V9Abpl-?e=ENtfWW)
-
-![Simple Calculator - screenshot] (https://1drv.ms/i/s!AuxEuG58wJ2DiGM9425y0oreBXQK?e=ddZQ5E)
+![1](https://github.com/user-attachments/assets/7196ddfa-cce9-4eb0-9262-e43c360bcdf5) 
+![2](https://github.com/user-attachments/assets/d32925ee-95de-486d-aabf-3df9059f6e07)
 
 **_2. Day 1 Challenge(1).ipynb_**
 
@@ -70,10 +69,10 @@ git clone https://github.com/BalogunEzekiel/Day-1-Challenge/tree/main
 
 3. Run the cells in each notebook to see the code in action.
 
-_See below:_
+**_See below:_**
 
-![Python Concepts: variable, data types, loops - screenshot] (https://1drv.ms/i/s!AuxEuG58wJ2DiGE2hsdVvkwLy6xr?e=o58BFL)
+![3](https://github.com/user-attachments/assets/fe380fd0-580c-4d2e-a2c3-d5f264371361)
 
-![Python Concept: functions, basic calculations - screenshot] (https://1drv.ms/i/s!AuxEuG58wJ2DiGI1Zivpl2NPniai?e=y7McIy)
+![4](https://github.com/user-attachments/assets/25cf44e0-4858-4048-8b13-6f384eda0347)
 
-![Python Concepts: basic calculations - screenshot] (https://1drv.ms/i/s!AuxEuG58wJ2DiGD2KUXDgsX_cUiy?e=jp9pgN)
+![5](https://github.com/user-attachments/assets/5efa6148-df35-4e99-a1f9-ccfb94b04dab)
