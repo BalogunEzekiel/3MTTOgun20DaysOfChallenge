@@ -23,7 +23,7 @@ I delved deeper into data manipulation with Pandas – a powerful tool for any d
 
 💡 Task: Loaded the Titanic dataset, cleaned it, and explored different data types using Pandas.
 
-🎯 Outcome: I loaded the [Download the train.csv](C:/Users/win/Desktop/ALL/3MTT/20DaysOfChallenge/1._Dataset/titanic/train.csv) file from the Titanic dataset, cleaned it and explored various data types. A cleaned version, named [Download the my_cleaned_train.csv](C:/Users/win/my_cleaned_train.csv) is now attached. It’s incredible how quickly Pandas helps make sense of large datasets.
+🎯 Outcome: I loaded the [View train.csv](C:/Users/win/Desktop/ALL/3MTT/20DaysOfChallenge/1._Dataset/titanic/train.csv) file from the Titanic dataset, cleaned it and explored various data types. A cleaned version, named [View my_cleaned_train.csv](C:/Users/win/my_cleaned_train.csv) is now attached. It’s incredible how quickly Pandas helps make sense of large datasets.
 
 **Day 3 Challenge: Exploratory Data Analysis (EDA)**
 
